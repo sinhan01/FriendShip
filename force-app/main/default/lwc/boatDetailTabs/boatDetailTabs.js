@@ -1,6 +1,6 @@
 import { LightningElement,wire } from 'lwc';
 // Custom Labels Imports
-// import labelDetails for Details
+// import labelDetails for Details.
 // import labelReviews for Reviews
 // import labelAddReview for Add_Review
 // import labelFullDetails for Full_Details
